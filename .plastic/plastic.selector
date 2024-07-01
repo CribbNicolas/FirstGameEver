@@ -1,0 +1,4 @@
+repository "ShootYourFriend@cribbnicolas26@cloud"
+  path "/"
+    br "/main"
+    co "/main"
